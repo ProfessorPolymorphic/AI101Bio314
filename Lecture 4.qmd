@@ -1,0 +1,70 @@
+---
+title: "Lecture 4"
+---
+
+## Lecture 4: Genetic Variation
+
+### Content Summary
+
+- Begins with solutions to two practice problems on calculating genotype frequencies and identifying dominant alleles using Hardy-Weinberg principles
+- Introduces sources of phenotypic variation: genotype, environment, and genotype-environment interactions
+- Emphasizes the importance of genetic variation for evolution
+- Presents two approaches for quantifying genetic variation: 
+    1. Statistical analysis of quantitative traits
+    2. Studies at the molecular level
+- Provides a statistical refresher on describing bivariate distributions using means, variances, and covariances
+- Decomposes phenotypic variation into genetic and environmental components
+- Further decomposes genetic variation into additive, dominance, and interaction variance
+- Highlights the importance of additive genetic variance for evolution
+- Introduces the concept of heritability and explains how to estimate narrow-sense heritability using parent-offspring regression
+- Discusses landmark studies demonstrating abundant genetic polymorphism within populations
+- Illustrates the hierarchical nature of genetic variation: within populations, among populations, and among species
+- Applies these concepts to the conservation of sockeye salmon populations
+- Identifies the sources of genetic variation: mutation, recombination, gene flow, and hybridization
+- Presents estimates of mutation rates and their implications for generating new variation
+- Explains how recombination, gene flow, and hybridization redistribute genetic variation
+
+### Alignment with Learning Objectives
+
+1. Introducing conceptual and theoretical underpinnings of population biology
+    - The lecture delves into the genetic basis of variation, a fundamental concept in population biology. It breaks down the components of genetic variation and illustrates how they are estimated and interpreted.
+
+2. Familiarizing students with statistical methods for inferring population processes
+    - The statistical refresher on bivariate distributions and the explanation of parent-offspring regression provide students with tools for quantifying and analyzing genetic variation.
+
+3. Illustrating the applied importance of population biology
+    - The discussion of genetic variation in the context of salmon conservation highlights the practical relevance of these concepts for managing populations.
+
+4. Promoting critical thinking and problem-solving
+    - The practice problems at the beginning of the lecture reinforce students' ability to apply Hardy-Weinberg principles to real-world scenarios.
+
+Overall, Lecture 4 provides a comprehensive overview of the nature and sources of genetic variation, which is critical for understanding the raw material upon which evolutionary processes act. The content supports the learning objectives by integrating theoretical concepts with statistical methods and applied examples, providing a holistic perspective on this core aspect of population biology.
+
+# Additional Potential Practice Problems
+
+Here are a few practice problems that could support individualized mastery learning for the content covered in Lecture 4:
+
+1. Hardy-Weinberg Practice:
+   - In a population of butterflies, the frequency of a recessive allele (a) for wing color is 0.4. Assuming the population is in Hardy-Weinberg equilibrium, calculate the frequencies of the genotypes AA, Aa, and aa.
+
+2. Heritability Estimation:
+   - A researcher measured the height of a sample of parents and their adult offspring in a population of trees. The average height of the parents was 15 meters with a variance of 4 m^2, while the average height of the offspring was 16 meters with a variance of 3 m^2. The covariance between parent and offspring heights was 2.5 m^2. Estimate the narrow-sense heritability of height in this population.
+
+3. Mutation Rates:
+   - A geneticist sequenced a gene in a sample of 1000 gametes and found 5 new mutations. Estimate the per-locus mutation rate for this gene.
+
+4. Recombination and Variation:
+   - Consider two linked loci with alleles A/a and B/b. The initial population consists of individuals with genotypes AB/AB and ab/ab in equal proportions. Calculate the frequencies of the four possible gametes (AB, Ab, aB, ab) produced by this population under the following scenarios:
+     a) No recombination occurs
+     b) Recombination occurs with a frequency of 0.2
+
+5. Gene Flow and Differentiation:
+   - Two populations of a plant species have the following allele frequencies at a locus: Population 1 (A: 0.8, a: 0.2) and Population 2 (A: 0.2, a: 0.8). Calculate the average allele frequencies and the variance in allele frequency between the populations before and after 50% of the individuals in each population are replaced by migrants from the other population.
+
+These problems cover key concepts from the lecture, including Hardy-Weinberg equilibrium, quantitative genetics, mutation, recombination, and gene flow. To support individualized mastery learning, you could:
+- Provide hints or scaffolded versions of the problems for students who need more support
+- Offer challenge problems that extend these concepts for students who master the basics quickly
+- Give students targeted feedback on their problem-solving process and understanding of the underlying principles
+- Allow students to resubmit solutions after receiving feedback to demonstrate improved mastery
+
+You can adapt the difficulty and focus of the problems based on students' prior knowledge and learning goals. The key is to use the problems as formative assessments to gauge student understanding and provide individualized feedback and support.

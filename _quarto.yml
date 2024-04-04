@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "AI101 Biology 314"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Lecture1.qmd
+      - Lecture2.qmd
+      - Lecture3.qmd
+      - Lecture4.qmd
+      
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+
+
+
+

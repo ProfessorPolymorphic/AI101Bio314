@@ -1,0 +1,44 @@
+---
+title: "Lecture 3"
+---
+
+# Lecture 3 Content Summary:
+
+- Begins with the solution to the practice question from Lecture 2 on calculating population growth rates using life table data
+- Provides a historical overview of the development of Darwin's theory of natural selection, including:
+    - The influence of Malthus' ideas on population growth and resource limitation
+    - The impact of Lyell's work in geology and uniformitarianism 
+    - Darwin's observations during the voyage of the Beagle, particularly the diversity of Galapagos finches
+- Outlines the key components of Darwin's theory: variation, differential survival and reproduction, and heredity
+- Discusses the problem of blending inheritance and how it was resolved by the rediscovery of Mendel's work
+- Introduces the Hardy-Weinberg equilibrium and its implications for maintaining genetic variation
+- Describes the debate between biometricians and Mendelians and the eventual synthesis of their ideas
+- Presents three key results of the modern synthesis: 
+    1. Mendelian genetics is consistent with continuous variation
+    2. Selection can shift continuous traits beyond their initial range
+    3. Random mutation is the ultimate source of variation
+
+# Alignment with Syllabus Learning Objectives:
+1. Introducing conceptual and theoretical underpinnings of population biology
+- The lecture provides a thorough background on the historical development of key evolutionary concepts, including natural selection, particulate inheritance, and the maintenance of genetic variation. This directly supports the goal of establishing a strong conceptual foundation.
+
+2. Illustrating the applied importance of population biology
+- While the lecture is primarily focused on theoretical concepts, the discussion of Darwin's observations of Galapagos finches provides a concrete example of how these ideas are grounded in real-world patterns of biodiversity.
+
+3. Promoting critical thinking and problem-solving
+- The lecture begins by walking through the solution to the practice problem from Lecture 2, reinforcing the importance of applying quantitative reasoning to population biology questions.
+
+4. Demonstrating the interdisciplinary nature of the field
+- The overview of the modern synthesis highlights how population biology integrates ideas from various subfields, including genetics, ecology, and evolutionary biology.
+
+The content in Lecture 3 provides important historical and conceptual context for understanding the core principles of population biology. By tracing the development of key ideas like natural selection and particulate inheritance, the lecture helps students appreciate the intellectual foundations of the field. The synthesis of Mendelian genetics with Darwinian evolution is particularly critical for establishing a unified framework for interpreting patterns of variation and evolutionary change.
+
+# Additional Potential Practice Problems:
+
+To assess students' understanding of this material, potential practice problems could include:
+- Explaining how the Hardy-Weinberg equilibrium resolves the problem of blending inheritance and allows for the maintenance of genetic variation
+- Describing how Darwin's observations during the voyage of the Beagle support the key components of his theory of evolution by natural selection
+- Discussing how the Castle's hooded rats experiment demonstrates the ability of selection to shift continuous traits, and why this was important for reconciling biometrician and Mendelian perspectives
+
+These questions would challenge students to articulate the key conceptual insights from the lecture and apply them to specific examples or scenarios, promoting a deeper understanding of the historical and theoretical foundations of population biology.
+

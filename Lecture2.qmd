@@ -1,0 +1,74 @@
+---
+title: "Lecture 2"
+---
+
+# Lecture 2 Content:
+
+- Defines a population as a group of organisms of the same species occupying a defined geographic region with reproductive continuity 
+- Discusses challenges in defining populations, including unclear boundaries, movement between populations, and metapopulation dynamics
+- Introduces methods for identifying functional populations: genetic analysis, mark-recapture experiments, and mate choice studies
+- Describes key population properties: density, genetic structure, age structure, and growth rate
+- Explains how population density affects intraspecific competition, disease spread, interspecific interactions, and evolution, using Chagas disease as an example
+- Illustrates genetic structure using the example of sickle cell allele frequency and malaria resistance
+- Introduces mortality schedules, life tables, and fecundity schedules to quantify age structure 
+- Demonstrates how life tables can be used to calculate population growth rate (r) based on lifetime reproductive output (R0) and generation time (G)
+- Shows how r predicts future population size and defines the concept of equilibrium
+
+# Alignment with Syllabus Learning Objectives:
+1. Introducing conceptual and theoretical underpinnings of population biology
+- Lecture 2 dives deeper into the fundamental concepts of population biology, focusing on defining populations and their key properties. This supports the primary goal of providing a conceptual foundation.
+
+2. Familiarizing students with statistical methods for inferring population processes
+- The use of life tables to quantify mortality, fecundity, and population growth introduces students to key statistical tools in population biology. This aligns with the objective of developing statistical skills.
+
+3. Illustrating the applied importance of population biology
+- The Chagas disease and sickle cell anemia examples highlight how population properties like density and genetic structure have real-world implications for public health and evolution. This supports the goal of demonstrating the field's applied relevance.
+
+4. Promoting problem-solving and critical thinking
+- The practice question at the end of the lecture challenges students to use life tables to compare population growth under different conditions. This aligns with the syllabus emphasis on problem-solving and the use of practice questions to reinforce learning.
+
+Overall, Lecture 2 builds on the foundational concepts introduced in Lecture 1 while diving deeper into the specific properties and analytical tools used to study populations. The content supports the syllabus learning objectives by blending theory with applied examples and providing opportunities for problem-solving and skill development.
+
+
+
+# Practice Question
+
+![](Lect2practice.png)
+
+## Breakdown
+
+Let's break down the practice question at the end of Lecture 2.
+
+Scenario:
+A team of conservation biologists wants to determine the optimum environment for raising an endangered flowering plant species in captivity. The optimum environment is the one that maximizes the growth rate of the captive population, allowing more individuals to be released into the wild in each generation. The team estimated life table data for two cohorts (each of size 100) of captive plants, each raised under different environmental conditions.
+
+Given Data:
+The life tables for the two populations are provided, showing the number of individuals alive at each age (N_x), the proportion surviving to each age (l_x), and the expected number of offspring produced at each age (m_x).
+
+Questions:
+A. Calculate the expected number of offspring produced by each individual plant over its lifetime (R_0) for each population.
+B. Calculate the generation time for each population.
+C. Calculate the growth rate (r) for each population.
+D. Determine which population is growing faster and explain why.
+E. Predict the size of each population after five years, assuming both populations initially contain 100 individuals.
+
+Approach:
+To answer these questions, students need to use the formulas and concepts introduced in the lecture:
+- R_0 = Σ l_x * m_x (sum of the product of l_x and m_x across all ages)
+- G = (Σ x * l_x * m_x) / R_0 (sum of the product of age, l_x, and m_x, divided by R_0)
+- r ≈ ln(R_0) / G (natural log of R_0 divided by G)
+- Population size at time t (N_t) = N_0 * e^(rt) (initial population size multiplied by e raised to the power of rt)
+
+By calculating these values for each population and comparing them, students can determine which environment results in faster population growth and explain the reasons behind the difference. Finally, they can use the growth rate to predict future population sizes.
+
+This practice question assesses students' ability to apply the life table analysis techniques covered in the lecture to a realistic scenario in conservation biology. It requires them to perform calculations, interpret the results, and draw conclusions about optimal conditions for population growth. This aligns with the syllabus goals of developing quantitative skills, promoting critical thinking, and illustrating the applied importance of population biology.
+
+# Additional Potential Practice Problems:
+
+To further reinforce mastery of the concepts and skills covered in Lecture 2, additional practice problems could ask students to:
+- Interpret life tables and fecundity schedules for different species or populations
+- Calculate R0, G, and r given life table data and explain what these values indicate about population dynamics
+- Predict and compare population sizes over time for different r values
+- Explain how factors like population density or age structure might evolve in response to changing environmental conditions, using real-world examples
+
+These problems would assess students' ability to apply the key concepts and quantitative tools introduced in the lecture to novel scenarios, promoting a deeper understanding of population dynamics and how they can be analyzed using the approaches of population biology.

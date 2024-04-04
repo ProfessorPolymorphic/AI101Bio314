@@ -1,0 +1,159 @@
+---
+title: "12 - PANDAS"
+---
+
+# Study Guide for Python Programming: Unit on Data Analysis
+
+:::: {layout="[ 40, 60 ]"}
+
+::: {#first-column}
+![](Lovey2.jpg)
+
+Lovey kind of looks like a Panda?
+
+
+
+:::
+
+::: {#second-column}
+
+### Pandas Syntax
+
+Here's a bulleted list summarizing the syntax for the specified Pandas functions:
+
+- **loc**
+  - Accesses a group of rows and columns by labels or a boolean array.
+  - Syntax: `DataFrame.loc[<row_labels>, <column_labels>]`
+
+- **iloc**
+  - Accesses a group of rows and columns by integer index positions.
+  - Syntax: `DataFrame.iloc[<row_indices>, <column_indices>]`
+
+- **series()**
+  - Creates a Pandas Series from a list, array, or dictionary.
+  - Syntax: `pandas.Series(data=None, index=None, dtype=None, name=None, copy=False, fastpath=False)`
+
+- **DataFrame()**
+  - Creates a DataFrame from a variety of input data structures like a 2D array, dictionary of arrays, Series, or another DataFrame.
+  - Syntax: `pandas.DataFrame(data=None, index=None, columns=None, dtype=None, copy=False)`
+
+- **read_csv()**
+  - Reads a CSV file into a DataFrame.
+  - Syntax: `pandas.read_csv(filepath_or_buffer, sep=',', delimiter=None, header='infer', names=None, index_col=None, usecols=None, ...)`
+
+- **Row / Column Filters**
+  - Used to filter the rows or columns of a DataFrame based on some condition or criteria.
+  - Syntax for Row Filter: `DataFrame[DataFrame['column_name'] <operator> <condition>]`
+  - Syntax for Column Filter: `DataFrame[['column_name1', 'column_name2', ...]]`
+
+- **to_records()**
+  - Converts DataFrame to a NumPy record array.
+  - Syntax: `DataFrame.to_records(index=True, column_dtypes=None, index_dtypes=None)`
+
+:::
+
+::::
+
+# Study Guide for Python Programming: Unit on Pandas
+
+## Key Concepts
+
+### Data Analysis
+- **Definition**: The process of applying logical techniques to describe, condense, recap, evaluate data, and illustrate information.
+- **Goals**: To discover useful information, provide insights, suggest conclusions, and support decision-making.
+
+### What is Pandas?
+- **Pandas Package**: A Python package for data analysis, providing built-in data structures for manipulating and analyzing data sets.
+- **Functionality**: Allows fetching data from various sources and tabulating it for analysis.
+- **Data Structures**: Includes Series and DataFrame, which simplify data manipulation.
+- **Documentation**: Extensive documentation available at [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/).
+
+### Pandas: Essential Concepts
+- **Series**: A named Python list, similar to a dictionary with a list as a value.
+  - Example: `{‘grades’: [50, 90, 100, 45]}`
+- **DataFrame**: A dictionary of Series, representing a tabular data structure.
+  - Example: `{‘names’: [‘bob’, ‘ken’, ‘art’, ‘joe’], ‘grades’: [50, 90, 100, 45]}`
+
+### Basic Operations in Pandas
+- **Creating a DataFrame**: From a dictionary, CSV, JSON, HTML tables, or database queries.
+- **Column Selection**: Accessing specific columns in a DataFrame.
+- **Row Selection**: Using Boolean indexing to filter rows based on conditions.
+- **Data Manipulation**: Basic operations like row/column filters, handling null values, `head()`, `sample()`, and `value_counts`.
+
+### Data Loading Capabilities
+- **Reading Data**: Pandas can read data from CSV, Excel, delimited files, HTML tables, JSON, and API outputs.
+- **Data Exploration**: Once data is loaded into a DataFrame, it's easy to explore and manipulate.
+
+## Practice Questions
+
+21. **What Pandas data structure is similar to a Python dictionary?**
+    - A. DataFrame
+    - B. Series
+    - C. List
+    - D. Tuple
+
+<details>
+<summary>Click to see the answer</summary>
+
+**Answer:** A. DataFrame
+
+**Explanation:** A DataFrame is a tabular data structure in Pandas, similar to a dictionary of Series.
+</details>
+
+
+22. **Which method in Pandas is used to read a CSV file into a DataFrame?**
+    - A. `pd.read_csv()`
+    - B. `pd.read_excel()`
+    - C. `pd.read_json()`
+    - D. `pd.read_html()`
+
+<details>
+<summary>Click to see the answer</summary>
+
+**Answer:** A. pd.read_csv()
+
+**Explanation:** The pd.read_csv() function is used in Pandas to read data from a CSV file into a DataFrame.
+</details>
+
+23. **How do you select a column named 'Age' from a DataFrame `df`?**
+    - A. `df['Age']`
+    - B. `df.Age`
+    - C. Both A and B
+    - D. `df(Age)`
+
+<details>
+<summary>Click to see the answer</summary>
+
+**Answer:** C. Both A and B
+
+**Explanation:** In Pandas, a column can be selected using either df['Age'] or df.Age.
+</details>
+
+24. **What is the output of `df.head(3)` where `df` is a Pandas DataFrame?**
+    - A. The first 3 columns of `df`
+    - B. The first 3 rows of `df`
+    - C. The last 3 rows of `df`
+    - D. The header row of `df`
+
+<details>
+<summary>Click to see the answer</summary>
+
+**Answer:** B. The first 3 rows of df
+
+**Explanation:** The head() method in Pandas returns the first N rows of the DataFrame, with df.head(3) returning the first 3 rows.
+</details>
+
+25. **In Pandas, how do you filter rows in DataFrame `df` where the column 'Sales' is greater than 100?**
+    - A. `df[df['Sales'] > 100]`
+    - B. `df('Sales' > 100)`
+    - C. `df.get('Sales' > 100)`
+    - D. `df.query('Sales > 100')`
+
+<details>
+<summary>Click to see the answer</summary>
+
+**Answer:** A. df[df['Sales'] > 100]
+
+**Explanation:** This syntax is used for Boolean indexing in Pandas, filtering rows where the ‘Sales’ column values are greater than 100.
+</details>
+

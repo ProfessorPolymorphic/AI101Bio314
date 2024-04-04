@@ -1,0 +1,39 @@
+---
+title: "Lecture 1"
+---
+
+# Lecture 1 Content:
+
+- Defines population biology as the study of ecological and evolutionary processes and their impact on species abundance, diversity, and distribution
+- Introduces key questions addressed by population biology:
+    - Factors determining a species' geographic range
+    - Causes of genetic structure 
+    - Explanations for geographic variation in biodiversity
+    - Mechanisms regulating population sizes
+    - Reasons for variation in organism lifespan
+    - Consequences of community structure 
+    - Species responses to climate change
+    - Forecasting emerging pandemic risks
+- Emphasizes the tools used in population biology to answer these questions: field and experimental studies, population and community ecology, population and quantitative genetics, mathematical modeling, statistics and data science
+
+# Alignment with Syllabus Learning Objectives:
+1. Introducing conceptual and theoretical underpinnings of ecology and population biology
+- Lecture 1 provides a high-level overview of the fundamental concepts and questions that form the foundation of population biology. This aligns with the primary goal stated in the syllabus.
+
+2. Illustrating the applied importance of population biology 
+- The examples covered (malaria, biodiversity, lifespan variation, community structure, climate change responses, pandemic risks) highlight the real-world relevance and practical applications of population biology principles. This supports the syllabus objective of demonstrating the field's significance.
+
+3. Promoting efficient scientific writing
+- While not directly addressed in Lecture 1, the tools of population biology listed (particularly statistics and data science) lay the groundwork for the data analysis skills that will be honed through lab reports and scientific writing practice.
+
+The content in Lecture 1 sets the stage for the rest of the course by introducing the overarching themes, key questions, and methodological approaches of population biology. It aligns well with the primary goals articulated in the syllabus, particularly the aim of providing a conceptual foundation. The examples given also support the objective of illustrating the applied importance of the field.
+
+# Potential Practice Problems
+
+To reinforce the learning objectives, some suggested practice problems based on Lecture 1 could include:
+- Describing a specific example of how population biology principles have been applied to address a real-world ecological or public health issue
+- Explaining how the different tools of population biology can be integrated to answer a complex question about species distribution, community dynamics, or evolutionary processes
+- Articulating the potential impacts of phenomena like climate change or habitat fragmentation using population biology concepts
+
+These problems would assess students' understanding of the key themes, applied relevance, and interdisciplinary nature of population biology as emphasized in the syllabus objectives and Lecture 1.
+

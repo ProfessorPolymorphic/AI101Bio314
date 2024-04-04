@@ -1,0 +1,78 @@
+---
+title: "AI101Bio314"
+---
+
+# Welcome to Biology 314: Ecology and Population Biology!
+
+## Course Description:
+
+In this course, we will explore the fascinating field of population biology, which studies how ecological and evolutionary processes shape the abundance, diversity, and distribution of species. We will investigate the factors that determine a species' geographic range, the causes of genetic variation, the mechanisms regulating population sizes, and the consequences of community structure. You will learn to apply the tools of population and community ecology, population and quantitative genetics, mathematical modeling, statistics, and data science to address pressing biological challenges such as the impacts of climate change and the emergence of infectious diseases.
+
+## Learning Objectives:
+
+**Actual Text:** The primary goals of this course are to introduce you to the conceptual and theoretical underpinnings of ecology and population biology and to familiarize you with key statistical methods used to draw inferences about population level processes. Additional goals will be to illustrate the applied importance of population biology through discussion of topics such as the evolution of antibiotic resistance in bacteria and the role hatcheries should play in conserving shrinking populations of Pacific Salmon and to promote efficient scientific writing.
+
+By the end of this course, you will be able to:
+
+1. Explain the key concepts and theoretical foundations of ecology and population biology.
+
+2. Analyze ecological and evolutionary data using appropriate statistical methods.
+
+3. Interpret and communicate scientific results through clear, concise writing.
+
+4. Appreciate the applied importance of population biology in solving real-world problems.
+
+### Alignment with [University Learning Outcomes](https://www.uidaho.edu/provost/learning-outcomes)
+
+The Learning Objectives of the Biology 314 course align with the University of Idaho's University Learning Outcomes (ULOs) in the following ways:
+
+1. **LEARN AND INTEGRATE**:
+   - The course's focus on introducing students to the conceptual and theoretical underpinnings of ecology and population biology aligns with the ULO of learning and integrating knowledge across disciplines. The course integrates concepts from biology, statistics, and environmental science to provide a comprehensive understanding of population biology.
+   - The statistical methods taught for drawing inferences about population-level processes require students to integrate mathematical skills with biological concepts, demonstrating the interdisciplinary approach encouraged by this ULO.
+
+2. **THINK AND CREATE**:
+   - The course structure, which includes solving practice problems, working through modules that focus on different types of data analysis, and preparing written reports, encourages students to use multiple thinking strategies to solve real-world problems. This aligns with the ULO of thinking and creating.
+   - The emphasis on critical thinking and problem-solving in exams, as well as the application of statistical tools to evaluate hypotheses in lab reports, fosters an environment where students are challenged to explore creative solutions and make consequential decisions.
+
+3. **COMMUNICATE**:
+   - The requirement for students to prepare written laboratory reports that clearly and concisely communicate scientific results reflects the ULO of communication. Students must articulate their findings and convey the intended meaning using a structured format, demonstrating respect and understanding in a complex scientific context.
+   - The collaborative aspect of the course, where students are encouraged to work in groups to share ideas and approaches to data analysis, enhances verbal and non-verbal communication skills among peers.
+
+4. **CLARIFY PURPOSE AND PERSPECTIVE**:
+   - The course's additional goal of illustrating the applied importance of population biology through discussions on topics like antibiotic resistance and conservation efforts fosters an understanding of the subject's relevance to broader societal and environmental issues. This helps students explore their life purpose and meaning in the context of ecological and population biology, aligning with the ULO of clarifying purpose and perspective.
+
+5. **PRACTICE CITIZENSHIP**:
+   - Although the syllabus does not explicitly mention citizenship, the applied importance of population biology in addressing real-world challenges such as conservation and public health can implicitly encourage students to apply principles of socially responsible behavior. The collaborative nature of scientific work highlighted in the course also supports the development of ethical leadership and engagement in a community of learners, which are key aspects of practicing citizenship.
+
+
+## Course Structure:
+- Lectures: Lectures will be posted on Canvas before each class. They will cover major principles, concepts, and examples. Practice problems will be provided at the end of each lecture for you to apply your understanding.
+
+- Labs: Labs will focus on developing skills in data analysis and scientific writing. You will work with real datasets to test hypotheses and communicate your findings in the form of short reports.
+
+- Exams: There will be four take-home exams that will assess your cumulative understanding of the course material. These exams will emphasize problem-solving and critical thinking.
+
+## Grading:
+
+Your course grade will be based on the following components:
+- Exams (60%)
+
+- Lab reports (30%)
+
+- Practice problems and problem sets (10%)
+
+Detailed information on each component, including due dates and grading rubrics, can be found in the syllabus.
+
+## Instructor and TA:
+Professor: Dr. Scott Nuismer (snuismer@uidaho.edu)
+
+Teaching Assistant: Kristen Martinet (kmartinet@uidaho.edu)
+
+We are here to support your learning throughout the semester. Please don't hesitate to reach out if you have any questions or concerns!
+
+## Recommended Background:
+
+While there are no formal prerequisites for this course, a solid foundation in introductory biology and basic statistics will be helpful. If you need a refresher on any topics, please let us know and we can provide additional resources.
+
+We're excited to have you in the class and look forward to exploring the dynamic world of population biology together!
+
